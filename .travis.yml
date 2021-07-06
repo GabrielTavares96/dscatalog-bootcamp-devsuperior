@@ -4,4 +4,3 @@ jdk:
 before_install:
   - cd backend
   - chmod +x mvnw
-  
